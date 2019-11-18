@@ -5,6 +5,7 @@ This directory includes Python samples for Turta Modular HAT.
 * __analog_differential.py:__ Demonstrates measuring differential analog inputs from analog ports.
 * __analog_module.py:__ Demonstrates measuring analog inputs from modules.
 * __analog_single_ended.py:__ Demonstrates measuring single-ended analog inputs from analog ports.
+* __digital_in_out.py:__ Demonstrates digital port read and write.
 
 ## Running the Python Samples
 * Copy the sample code to your Raspberry Pi.
