@@ -8,7 +8,7 @@
 # To do so, type 'sudo raspi-config' to the terminal, then go to 'Interfacing Options' and enable both SPI and I2C.
 
 from time import sleep
-from turta_protohat import Turta_Analog
+from turta_modularhat import Turta_Analog
 
 #Initialize
 analog = Turta_Analog.ADC()
